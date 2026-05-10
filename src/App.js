@@ -164,7 +164,7 @@ function App() {
 
       {/* FOOTER */}
       <footer>
-        © 2026 Amazon Clone | React Project
+        © 2026 Amazon Web Page | React Project
       </footer>
 
     </div>
